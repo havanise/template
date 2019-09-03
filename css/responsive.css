@@ -1,0 +1,22 @@
+@media (max-width: 1030px){
+	.sekiller{
+		margin-left:5%;
+	}
+}
+@media (min-width: 1350px){
+	.aboutme{
+		padding-right: 20%;
+	}
+}
+@media (max-width: 1070px){
+	.adam{
+		width: 300px;
+	}
+	.aboutme{
+		top:1050px;
+		left: 480px;
+	}
+	.sozportfol{
+		top: 1600px;
+	}
+}

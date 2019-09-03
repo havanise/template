@@ -1,0 +1,162 @@
+.bg{
+	width: 100%;
+	height: 980px;
+	margin-top:-50px;
+	background-image: url(../images/bg.png);	
+}
+li{
+	float: left;	
+	
+}
+#home{	
+	padding-top: 1%;
+	padding-left: 30%;
+}
+#home>li
+{
+	padding-left: 5%;
+}
+
+.menu_box{
+	position: sticky;
+	left: 5%;
+	height: 50px;
+	width: 90%;
+	border-bottom: 1px solid white;
+	top: 0px;
+	z-index: 100;
+	
+}
+@font-face {
+    font-family: 'OpenSans-Light';
+    src: url('fonts/OpenSans-Light.otf');
+    src: url('fonts/OpenSans-Light.eot?#iefix') format('embedded-opentype'),
+        url('fonts/OpenSans-Light.woff2') format('woff2'),
+        url('fonts/OpenSans-Light.woff') format('woff'),
+        url('fonts/OpenSans-Light.ttf') format('truetype'),
+        url('fonts/OpenSans-Light.svg#OpenSans-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nexa Light';
+    src: url('fonts/Nexa Light.otf');
+    src: url('fonts/Nexa Light.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Nexa Light.woff2') format('woff2'),
+        url('fonts/Nexa Light.woff') format('woff'),
+        url('fonts/Nexa Light.ttf') format('truetype'),
+        url('fonts/Nexa Light.svg#Nexa Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Nexa Bold';
+    src: url('fonts/Nexa Bold.otf');
+    src: url('fonts/Nexa Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Nexa Bold.woff2') format('woff2'),
+        url('fonts/Nexa Bold.woff') format('woff'),
+        url('fonts/Nexa Bold.ttf') format('truetype'),
+        url('fonts/Nexa Bold.svg#Nexa Bold') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+.logo,
+.logo1
+{
+	position: relative;
+	float: left;
+}
+
+.sozportfol,
+.logo>p,
+a{
+	color: white;
+	font-family: 'Nexa Light';
+}
+.sozportfol{
+	font-size: 40px;
+}
+a{
+	font-size: 20px;
+}
+span{
+	font-family: 'Nexa Bold';
+}
+.first_p{
+	margin-top: 5%;
+	font-size: 40px;
+	letter-spacing: 2px;
+	}
+.logo{
+	margin-top: -800px;
+	left: 36%;
+}
+.logo1{	
+	left: 80%;
+}
+.second_p{
+	margin-top: 40%;
+	padding-bottom:5%;
+	font-size: 18px;
+	margin-left: 20%;
+}
+.scrol{
+	margin-left: 40%;
+}
+.adam{
+	margin: 100px;	
+}
+.about{
+	font-family: 'Nexa Light';
+	font-size: 50px;
+}
+.lorem{
+	padding-right: 20%;
+	font-size: 24px;
+	font-family: 'OpenSans-Light';
+}
+.aboutme{
+	position: absolute;
+	top: 1100px;
+	left: 750px;
+}
+.bg2{
+	width: 100%;
+	height: 980px;
+	background-image: url(../images/bg2.png);	
+}
+.sekiller{
+	position: relative;
+	float: left;
+	margin:9%; 
+	margin-top: -700px;
+}
+.sekiller>li{
+	padding-left: 1%;
+	padding-top: 1%;
+}
+.sozportfol{
+	position: absolute;
+	left: 45%;
+	top: 1900px;
+}
+footer{
+	margin: 10% 35%;
+	text-align: center;
+}
+.mail,
+.phone,
+.social{
+	font-size: 30px;
+	font-family: 'Nexa Bold';
+}
+.mail2{
+	font-size: 55px;
+	font-family: 'Nexa Light';
+	
+}
+.phone2{
+	font-size: 45px;
+	font-family: 'Nexa Light';
+}
